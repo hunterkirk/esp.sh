@@ -1,4 +1,4 @@
-# Psychic Test
+# ESP Test
 
 Begin testing session ``./esp.sh``
 
